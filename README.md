@@ -8,6 +8,7 @@ All you're gonna need to run this tool is to have installed Python 3 and the mat
 ![Screenshot_20210902_070230](https://user-images.githubusercontent.com/71483185/131833474-6d65b76f-6781-43a3-93b7-5c68f4a266d1.png)<br>
 ![Screenshot_20210902_071239](https://user-images.githubusercontent.com/71483185/131833918-12496d8e-8c87-4e1e-8c12-d9522e61eecd.png)<br>
 ![Screenshot_20210902_072024](https://user-images.githubusercontent.com/71483185/131834978-4558b246-aba0-4be4-b042-a5d7151fdcaf.png)
-
+## Closing
+Special thanks to Derek Muller from Veritasium Youtube channel for inspiring with [this video](https://www.youtube.com/watch?v=094y1Z2wpJg) the developing of this tool
 
 
